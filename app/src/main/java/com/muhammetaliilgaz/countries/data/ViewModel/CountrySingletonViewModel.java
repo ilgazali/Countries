@@ -1,12 +1,8 @@
 package com.muhammetaliilgaz.countries.data.ViewModel;
 
-import com.muhammetaliilgaz.countries.data.model.country.CountryModel;
 import com.muhammetaliilgaz.countries.data.model.country.Data;
 
 import org.jetbrains.annotations.NotNull;
-
-import java.util.ArrayList;
-import java.util.List;
 
 public class CountrySingletonViewModel {
 

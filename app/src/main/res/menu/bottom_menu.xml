@@ -4,10 +4,12 @@
     <item
         android:id="@+id/countryFragment"
         android:title="Home"
+        android:iconTint="@drawable/bottom_navigation_selector"
         android:icon="@drawable/ic_baseline_home_24"/>
 
     <item
         android:id="@+id/favoriteFragment"
         android:title="Favorite"
+        android:iconTint="@drawable/bottom_navigation_selector"
         android:icon="@drawable/ic_baseline_favorite_24"/>
 </menu>
