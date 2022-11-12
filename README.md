@@ -7,7 +7,7 @@
 
 | Favourites |  | 
 | ------------- | 
-| ![detail_favourite](https://user-images.githubusercontent.com/73468385/201491113-3fa3fe8b-c7f7-4f48-8f4e-e09cf001ad24.png) 
+| ![detail_favourite](https://user-images.githubusercontent.com/73468385/201491113-3fa3fe8b-c7f7-4f48-8f4e-e09cf001ad24.png) | 
 
 
 
