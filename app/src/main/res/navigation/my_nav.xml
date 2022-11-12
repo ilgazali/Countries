@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/countryFragment">
+
+    <fragment
+        android:id="@+id/countryFragment"
+        android:name="com.muhammetaliilgaz.countries.view.country.CountryFragment"
+        android:label="Countries"
+        tools:layout="@layout/fragment_country" />
+    <fragment
+        android:id="@+id/favoriteFragment"
+        android:name="com.muhammetaliilgaz.countries.view.favorite.FavoriteFragment"
+        android:label="fragment_favorite"
+        tools:layout="@layout/fragment_favorite" />
+
+
+</navigation>
