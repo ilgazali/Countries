@@ -12,5 +12,3 @@
 
 
 
-
-<img width="345" alt="wikidata" src="https://user-images.githubusercontent.com/73468385/201491229-b490bbba-b132-42f7-bb5c-a51f81bd148e.png">
