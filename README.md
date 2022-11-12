@@ -7,8 +7,7 @@
 
 | Favourites    | Detail Country |
 | ------------- | ------------- |
-| ![detail_favourite](https://user-images.githubusercontent.com/73468385/201491113-3fa3fe8b-c7f7-4f48-8f4e-e09cf001ad24.png) | 
-|![wikiData](https://user-images.githubusercontent.com/73468385/201491229-b490bbba-b132-42f7-bb5c-a51f81bd148e.png) |
+| ![detail_favourite](https://user-images.githubusercontent.com/73468385/201491113-3fa3fe8b-c7f7-4f48-8f4e-e09cf001ad24.png) | ![wikiData](https://user-images.githubusercontent.com/73468385/201491229-b490bbba-b132-42f7-bb5c-a51f81bd148e.png) |
 
 
 
